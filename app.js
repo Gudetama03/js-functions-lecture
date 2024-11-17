@@ -5,6 +5,15 @@
 
 // pt2 calling function
 
+/* 
+
+    function nameOfFunction(parameter1,parameter2){
+
+    insert code here
+
+    }
+*/
+
 
 function addTwoNum(num1,num2){
     return num1+num2
@@ -13,6 +22,9 @@ function addTwoNum(num1,num2){
 
 addTwoNum(50,12)
 
+// return lets you retrieve the value you got in the function
+// return only end of code
+// once you return any code below it wont work
 
 
 function planetHasWater(planet){
